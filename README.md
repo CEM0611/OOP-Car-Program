@@ -7,7 +7,7 @@ Edit Logs show what fixes, patches, edits have been made and what bugs have been
 
 
 Week 1 (Number 1):
-Work Log:
+Work Log: Added Chassis interface with definitions of methods and a constant String chassis with the value "Chassis".
 Edit Log:
 
 Week 2 (Number 2):
