@@ -15,7 +15,8 @@ Work Log: Added Engine interface with definitions of different engine part sette
 Edit Log:
 
 Week 3 (Number 3):\
-Work Log:\
+Work Log: Added VehicleChassis class with private String field of chassisName along\
+with overloaded constructors, setter and getter and a main method for testing\
 Edit Log:
 
 Week 4 (Number 4):\
