@@ -13,7 +13,13 @@ public class VehicleChassis implements Chassis{
   public void setChassisType(String vehicleChassis) {
     this.chassisName = vehicleChassis;
   }
-  public void toString(String vehicleChassis){
+  public void printChassisName(){
     System.out.println("Chassis Name: " + this.chassisName);
+  }
+  public static void main(String[] args){
+    VehicleChassis example1 = new VehicleChassis();
+    VehicleChassis example2 = new VehicleChassis("A-2");
+    example1.printChassisName();
+    example2.printChassisName();
   }
 }
