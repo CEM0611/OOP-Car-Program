@@ -44,6 +44,6 @@ Work Log: Created a concrete class named Car that extends the Vehicle class\
 Edit Log:
 
 Week 10 (Number 10):\
-Work Log:\
+Work Log: Completed project!\
 Edit Log:
 
