@@ -20,27 +20,27 @@ with overloaded constructors, setter and getter and a main method for testing.\
 Edit Log:
 
 Week 4 (Number 4):\
-Work Log:\
+Work Log: Added Vehicle Frame class that implements the Chassis interface\
 Edit Log:
 
 Week 5 (Number 5):\
-Work Log:\
+Work Log: Added ManufacturedEngine class that implements the Engine interface\
 Edit Log:
 
 Week 6 (Number 6):\
-Work Log:\
+Work Log: Created a concrete class named InteriorFeature that implements the interface Feature\
 Edit Log:
 
-Week 7 (Number 7):\
-Work Log:\
+Week 7 (Number 7): \
+Work Log: Created a concrete class named ExteriorFeature that implements the interface Feature\
 Edit Log:
 
 Week 8 (Number 8):\
-Work Log:\
+Work Log: Created a concrete class named Vehicle that implements the Engine and Chassis interfaces\
 Edit Log:
 
 Week 9 (Number 9):\
-Work Log:\
+Work Log: Created a concrete class named Car that extends the Vehicle class\
 Edit Log:
 
 Week 10 (Number 10):\
